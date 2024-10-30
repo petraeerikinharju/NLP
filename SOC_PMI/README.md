@@ -1,5 +1,7 @@
 # SOC-PMI-Short-Text-Similarity
 
+GitHub: https://github.com/pritishyuvraj/SOC-PMI-Short-Text-Similarity-/tree/master
+
 Paper: Aminul Islam and Diana Inkpen, Semantic Text Similarity Using Corpus-Based Word Similarity and String Similarity, University of Ottawa. 2008
 
 The algorithm in the above paper is implemented.
