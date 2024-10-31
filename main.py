@@ -2,7 +2,7 @@ from Semantic_sim import *
 import os
 import pandas as pd
 
-os.chdir("C:/Users/OMISTAJA/OneDrive - University of Oulu and Oamk/NLPTM/Group Project") #Input your working directory such as "C:/Users/User/Documents"
+#os.chdir("Path/To/Dataset") #Input your working directory such as "C:/Users/User/Documents"
 sentences_stss, human_similarities = read_from_csv("STSS-131.csv")
 
 #sim1
