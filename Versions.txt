@@ -1,0 +1,21 @@
+Python and package versions used while creating the semantic similarity project for NLP:
+
+python: 3.12.7
+
+pandas: 2.2.3
+
+nltk: 3.9.1
+
+spacy: 3.7.5
+
+numpy: 1.26.4
+
+tensorflow_hub: 0.16.1
+
+gensim: 4.3.3
+
+torch: 2.5.0
+
+datasets: 3.0.2
+
+wxPython: 4.2.2
