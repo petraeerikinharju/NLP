@@ -10,7 +10,7 @@ If you want to use larger sets of the SemRel2024 datasets, modify the code on li
 `sentences, labels = extract_sentences_and_labels(dataset)`\
 add another variable to the method. See the method definition above this for-loop.)
 
-The *Interface.py* contains a simple interface to check similarities between two input sentences.
+The *Interface.py* contains a simple interface to check similarities between two input sentences. It takes a couple of seconds to run because the code first runs the *Semantic_sim.py*
 
 *similarities.xlsx* is a spreadsheet of the STSS-131 sentence pairs, human made similarities, sim1 and sim2.
 
