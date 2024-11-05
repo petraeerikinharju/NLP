@@ -12,4 +12,6 @@ add another variable to the method. See the method definition above this for-loo
 
 The *Interface.py* contains a simple interface to check similarities between two input sentences.
 
+*similarities.xlsx* is a spreadsheet of the STSS-131 sentence pairs, human made similarities, sim1 and sim2.
+
 The code in folder SOC_PMI is from https://github.com/pritishyuvraj/SOC-PMI-Short-Text-Similarity-
